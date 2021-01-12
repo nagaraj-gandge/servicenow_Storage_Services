@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="vmware Datastore Delete">e959ee8d075ca010ad21fc018c1ed0d3</sc_cat_item>
+        <sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 04:30:37</sys_created_on>
+        <sys_id>5369e2cd075ca010ad21fc018c1ed0ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPE Storage Catalogs.vmware Datastore Delete</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5369e2cd075ca010ad21fc018c1ed0ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 04:30:37</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SaaS">7982016c07546010ad21fc018c1ed028</application>
+        <file_path/>
+        <instance_id>a2ca6f24db95081052dd2f17d49619cb</instance_id>
+        <instance_name>dev95048</instance_name>
+        <name>sc_cat_item_catalog_5369e2cd075ca010ad21fc018c1ed0ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="vmware Datastore Delete">e959ee8d075ca010ad21fc018c1ed0d3</sc_cat_item><sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-04 04:30:37</sys_created_on><sys_id>5369e2cd075ca010ad21fc018c1ed0ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HPE Storage Catalogs.vmware Datastore Delete</sys_name><sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package><sys_policy/><sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope><sys_update_name>sc_cat_item_catalog_5369e2cd075ca010ad21fc018c1ed0ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-04 04:30:37</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1153761641</payload_hash>
+        <record_name>HPE Storage Catalogs.vmware Datastore Delete</record_name>
+        <reverted_from/>
+        <source>f982016c07546010ad21fc018c1ed02a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 04:30:37</sys_created_on>
+        <sys_id>d369e2cd075ca010ad21fc018c1ed0cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17591855c1e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 04:30:37</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>1f69e2cd435ca0102d8ae6d798c4bccb</update_guid>
+        <update_guid_history>1f69e2cd435ca0102d8ae6d798c4bccb:1153761641</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HPE Storage Catalogs.vmware Datastore Delete">e03ae2cd075ca010ad21fc018c1ed046</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 04:33:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>a6f50ed888fc460e9230f2306bf58591</sys_id>
+        <sys_metadata>5369e2cd075ca010ad21fc018c1ed0ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPE Storage Catalogs.vmware Datastore Delete</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_parent display_value="">e959ee8d075ca010ad21fc018c1ed0d3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_scope_delete display_value="">7ec3e9f0956b4ad0969ee05147fdaa40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_5369e2cd075ca010ad21fc018c1ed0ca</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_5369e2cd075ca010ad21fc018c1ed0ca">d369e2cd075ca010ad21fc018c1ed0cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 04:33:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

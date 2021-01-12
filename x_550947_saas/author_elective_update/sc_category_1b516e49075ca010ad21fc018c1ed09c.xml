@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image>740c1f9907a42010ad21fc018c1ed03f</homepage_image>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 03:55:39</sys_created_on>
+        <sys_id>1b516e49075ca010ad21fc018c1ed09c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>HPEStorage</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_update_name>sc_category_1b516e49075ca010ad21fc018c1ed09c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 14:12:18</sys_updated_on>
+        <title>HPEStorage</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=1b516e49075ca010ad21fc018c1ed09c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SaaS">7982016c07546010ad21fc018c1ed028</application>
+        <file_path/>
+        <instance_id>a2ca6f24db95081052dd2f17d49619cb</instance_id>
+        <instance_name>dev95048</instance_name>
+        <name>sc_category_1b516e49075ca010ad21fc018c1ed09c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image>740c1f9907a42010ad21fc018c1ed03f</homepage_image><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-04 03:55:39</sys_created_on><sys_id>1b516e49075ca010ad21fc018c1ed09c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>HPEStorage</sys_name><sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package><sys_policy/><sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope><sys_update_name>sc_category_1b516e49075ca010ad21fc018c1ed09c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 14:12:18</sys_updated_on><title>HPEStorage</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=1b516e49075ca010ad21fc018c1ed09c"/></record_update>]]></payload>
+        <payload_hash>-1300083258</payload_hash>
+        <record_name>HPEStorage</record_name>
+        <reverted_from/>
+        <source>f982016c07546010ad21fc018c1ed02a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 14:12:18</sys_created_on>
+        <sys_id>3a3b275507e42010ad21fc018c1ed087</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d68c94e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 14:12:18</sys_updated_on>
+        <type>Category</type>
+        <update_guid>b23b2755abe4201053f6fe1c1adda187</update_guid>
+        <update_guid_history>b23b2755abe4201053f6fe1c1adda187:-1300083258,64baaf1579e42010d329641cd447197f:-1109123162,d96c17d98ca420102dcbf554337b6bac:2082365318,b00cdf991fa4201050cb810fc05ab1aa:-1076284329,300cdf9979a420108d7d3e9a64d2ce8a:709803166,836162096298a01073541ea6450e4c0e:-1907370336</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HPEStorage">95fee31907e42010ad21fc018c1ed09c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 14:28:35</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>078bd7b969f64e469e185f7f1ec47e21</sys_id>
+        <sys_metadata>1b516e49075ca010ad21fc018c1ed09c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPEStorage</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_scope_delete display_value="">7ec3e9f0956b4ad0969ee05147fdaa40</sys_scope_delete>
+        <sys_update_name>sc_category_1b516e49075ca010ad21fc018c1ed09c</sys_update_name>
+        <sys_update_version display_value="sc_category_1b516e49075ca010ad21fc018c1ed09c">3a3b275507e42010ad21fc018c1ed087</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 14:28:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

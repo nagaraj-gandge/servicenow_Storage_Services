@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="HPE 3PAR Remote Copy Group -  Start Remote Copy Group">df1af65107642010ad21fc018c1ed0f8</sc_cat_item>
+        <sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 10:38:40</sys_created_on>
+        <sys_id>d95a7e5107642010ad21fc018c1ed0c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPE Storage Catalogs.HPE 3PAR Remote Copy Group -  Start Remote Copy Group</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d95a7e5107642010ad21fc018c1ed0c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 10:38:40</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SaaS">7982016c07546010ad21fc018c1ed028</application>
+        <file_path/>
+        <instance_id>a2ca6f24db95081052dd2f17d49619cb</instance_id>
+        <instance_name>dev95048</instance_name>
+        <name>sc_cat_item_catalog_d95a7e5107642010ad21fc018c1ed0c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="HPE 3PAR Remote Copy Group -  Start Remote Copy Group">df1af65107642010ad21fc018c1ed0f8</sc_cat_item><sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 10:38:40</sys_created_on><sys_id>d95a7e5107642010ad21fc018c1ed0c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HPE Storage Catalogs.HPE 3PAR Remote Copy Group -  Start Remote Copy Group</sys_name><sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package><sys_policy/><sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope><sys_update_name>sc_cat_item_catalog_d95a7e5107642010ad21fc018c1ed0c2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 10:38:40</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1285674573</payload_hash>
+        <record_name>HPE Storage Catalogs.HPE 3PAR Remote Copy Group -  Start Remote Copy Group</record_name>
+        <reverted_from/>
+        <source>f982016c07546010ad21fc018c1ed02a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 10:38:40</sys_created_on>
+        <sys_id>5d5a7e5107642010ad21fc018c1ed0c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d5c8fc120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 10:38:40</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>955a7e51b4642010a8567235176ab6c4</update_guid>
+        <update_guid_history>955a7e51b4642010a8567235176ab6c4:1285674573</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HPE Storage Catalogs.HPE 3PAR Remote Copy Group -  Start Remote Copy Group">7ec0bb5907e42010ad21fc018c1ed0b7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 14:36:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>189bf11bf1fa473488447411476ab890</sys_id>
+        <sys_metadata>d95a7e5107642010ad21fc018c1ed0c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPE Storage Catalogs.HPE 3PAR Remote Copy Group -  Start Remote Copy Group</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_parent display_value="HPE 3PAR Remote Copy Group -  Start Remote Copy Group">df1af65107642010ad21fc018c1ed0f8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_scope_delete display_value="">7ec3e9f0956b4ad0969ee05147fdaa40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_d95a7e5107642010ad21fc018c1ed0c2</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_d95a7e5107642010ad21fc018c1ed0c2">5d5a7e5107642010ad21fc018c1ed0c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 14:36:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

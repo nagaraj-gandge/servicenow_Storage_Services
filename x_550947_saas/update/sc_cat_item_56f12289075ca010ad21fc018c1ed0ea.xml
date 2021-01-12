@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="HPEPrimera">194b275507e42010ad21fc018c1ed04b</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>0584c8e507282010ad21fc018c1ed0b9</icon>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>HPE Primera Host Delete </name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>400</order>
+        <ordered_item_link/>
+        <picture>f384cce507282010ad21fc018c1ed068</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=56f12289075ca010ad21fc018c1ed0ea&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>Delete Primera Host </short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 03:58:29</sys_created_on>
+        <sys_id>56f12289075ca010ad21fc018c1ed0ea</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>HPE Primera Host Delete </sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_update_name>sc_cat_item_56f12289075ca010ad21fc018c1ed0ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 17:08:22</sys_updated_on>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="HPE Primera Host Delete">3ebdb41d07d0e010ad21fc018c1ed0d7</workflow>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=56f12289075ca010ad21fc018c1ed0ea"/>
+    <fx_price action="delete_multiple" query="id=56f12289075ca010ad21fc018c1ed0ea"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>56f12289075ca010ad21fc018c1ed0ea</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 03:58:30</sys_created_on>
+        <sys_id>ac12a289075ca010ad21fc018c1ed029</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 03:58:30</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>56f12289075ca010ad21fc018c1ed0ea</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 03:58:30</sys_created_on>
+        <sys_id>ac12a689075ca010ad21fc018c1ed0e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 03:58:30</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffb465</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <hash>df1e3c0d4c51e77b3610b8f821160e819f5ff39f4619a1b6466c42a05dbb0ed1</hash>
+        <image_height>116</image_height>
+        <image_width>77</image_width>
+        <size_bytes>1847</size_bytes>
+        <size_compressed>1870</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:02:47</sys_created_on>
+        <sys_id>0584c8e507282010ad21fc018c1ed0b9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 16:02:47</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>56f12289075ca010ad21fc018c1ed0ea</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="0584c8e507282010ad21fc018c1ed0b9">0584c8e507282010ad21fc018c1ed0b9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:02:47</sys_created_on>
+        <sys_id>4584c8e507282010ad21fc018c1ed0b9</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2480</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="0584c8e507282010ad21fc018c1ed0b9">0584c8e507282010ad21fc018c1ed0b9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:02:47</sys_created_on>
+        <sys_id>c584c8e507282010ad21fc018c1ed0b9</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffb465</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <hash>df1e3c0d4c51e77b3610b8f821160e819f5ff39f4619a1b6466c42a05dbb0ed1</hash>
+        <image_height>116</image_height>
+        <image_width>77</image_width>
+        <size_bytes>1847</size_bytes>
+        <size_compressed>1870</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:02:58</sys_created_on>
+        <sys_id>f384cce507282010ad21fc018c1ed068</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 16:02:58</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>56f12289075ca010ad21fc018c1ed0ea</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="f384cce507282010ad21fc018c1ed068">f384cce507282010ad21fc018c1ed068</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:02:58</sys_created_on>
+        <sys_id>3784cce507282010ad21fc018c1ed068</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2480</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="f384cce507282010ad21fc018c1ed068">f384cce507282010ad21fc018c1ed068</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:02:58</sys_created_on>
+        <sys_id>b784cce507282010ad21fc018c1ed068</sys_id>
+    </sys_attachment_doc>
+</record_update>

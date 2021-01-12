@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <misc>0</misc>
+        <order>200</order>
+        <question display_value="Size Unit">9b4e0ced07282010ad21fc018c1ed0b0</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:46:49</sys_created_on>
+        <sys_id>898e48ed07282010ad21fc018c1ed094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TiB</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_update_name>question_choice_898e48ed07282010ad21fc018c1ed094</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 16:46:49</sys_updated_on>
+        <text>TiB</text>
+        <value>TiB</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=898e48ed07282010ad21fc018c1ed094"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>898e48ed07282010ad21fc018c1ed094</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:46:49</sys_created_on>
+        <sys_id>d69e44ed07282010ad21fc018c1ed0d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 16:46:49</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>898e48ed07282010ad21fc018c1ed094</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:46:49</sys_created_on>
+        <sys_id>9e9e44ed07282010ad21fc018c1ed0d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 16:46:49</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SaaS">7982016c07546010ad21fc018c1ed028</application>
+        <file_path/>
+        <instance_id>a2ca6f24db95081052dd2f17d49619cb</instance_id>
+        <instance_name>dev95048</instance_name>
+        <name>question_choice_898e48ed07282010ad21fc018c1ed094</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><misc>0</misc><order>200</order><question display_value="Size Unit">9b4e0ced07282010ad21fc018c1ed0b0</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 16:46:49</sys_created_on><sys_id>898e48ed07282010ad21fc018c1ed094</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TiB</sys_name><sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package><sys_policy/><sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope><sys_update_name>question_choice_898e48ed07282010ad21fc018c1ed094</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 16:46:49</sys_updated_on><text>TiB</text><value>TiB</value></question_choice><fx_price action="delete_multiple" query="id=898e48ed07282010ad21fc018c1ed094"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>898e48ed07282010ad21fc018c1ed094</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 16:46:49</sys_created_on><sys_id>d69e44ed07282010ad21fc018c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 16:46:49</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>898e48ed07282010ad21fc018c1ed094</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 16:46:49</sys_created_on><sys_id>9e9e44ed07282010ad21fc018c1ed0d6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 16:46:49</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-787259176</payload_hash>
+        <record_name>TiB</record_name>
+        <reverted_from/>
+        <source>f982016c07546010ad21fc018c1ed02a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 16:46:49</sys_created_on>
+        <sys_id>5e9e002107682010ad21fc018c1ed000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d71a0b870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 16:46:49</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>969e0021ef682010db94e5e5063a7300</update_guid>
+        <update_guid_history>969e0021ef682010db94e5e5063a7300:-787259176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="TiB">18c48e6f07ac6410ad21fc018c1ed0de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-24 06:30:55</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>1e129b56371e4b2c83ec07a0309dbca1</sys_id>
+        <sys_metadata>898e48ed07282010ad21fc018c1ed094</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TiB</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_parent display_value="Size Unit">9b4e0ced07282010ad21fc018c1ed0b0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_scope_delete display_value="">7ec3e9f0956b4ad0969ee05147fdaa40</sys_scope_delete>
+        <sys_update_name>question_choice_898e48ed07282010ad21fc018c1ed094</sys_update_name>
+        <sys_update_version display_value="question_choice_898e48ed07282010ad21fc018c1ed094">5e9e002107682010ad21fc018c1ed000</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-24 06:30:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

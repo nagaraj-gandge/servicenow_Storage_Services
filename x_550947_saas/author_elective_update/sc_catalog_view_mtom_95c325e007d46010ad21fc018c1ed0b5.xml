@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 10:09:20</sys_created_on>
+        <sys_id>95c325e007d46010ad21fc018c1ed0b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPE Storage Catalogs.catalog_hpe_storage_catalogs</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_hpe_storage_catalogs">ddc3696007d46010ad21fc018c1ed065</sys_portal_page>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_95c325e007d46010ad21fc018c1ed0b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 10:09:20</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SaaS">7982016c07546010ad21fc018c1ed028</application>
+        <file_path/>
+        <instance_id>a2ca6f24db95081052dd2f17d49619cb</instance_id>
+        <instance_name>dev95048</instance_name>
+        <name>sc_catalog_view_mtom_95c325e007d46010ad21fc018c1ed0b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-02 10:09:20</sys_created_on><sys_id>95c325e007d46010ad21fc018c1ed0b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HPE Storage Catalogs.catalog_hpe_storage_catalogs</sys_name><sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package><sys_policy/><sys_portal_page display_value="catalog_hpe_storage_catalogs">ddc3696007d46010ad21fc018c1ed065</sys_portal_page><sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope><sys_update_name>sc_catalog_view_mtom_95c325e007d46010ad21fc018c1ed0b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-02 10:09:20</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>-78882182</payload_hash>
+        <record_name>HPE Storage Catalogs.catalog_hpe_storage_catalogs</record_name>
+        <reverted_from/>
+        <source>f982016c07546010ad21fc018c1ed02a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 10:09:20</sys_created_on>
+        <sys_id>e9c325e007d46010ad21fc018c1ed0b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175886ebf2d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 10:09:20</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>25c325e0f3d4601055c7dcdc4c4848b7</update_guid>
+        <update_guid_history>25c325e0f3d4601055c7dcdc4c4848b7:-78882182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HPE Storage Catalogs.catalog_hpe_storage_catalogs">e89e7fd107282010ad21fc018c1ed02e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 15:36:48</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>3351b67468b440d89687faf22066dc24</sys_id>
+        <sys_metadata>95c325e007d46010ad21fc018c1ed0b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPE Storage Catalogs.catalog_hpe_storage_catalogs</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_scope_delete display_value="">7ec3e9f0956b4ad0969ee05147fdaa40</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_95c325e007d46010ad21fc018c1ed0b5</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_95c325e007d46010ad21fc018c1ed0b5">e9c325e007d46010ad21fc018c1ed0b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 15:36:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

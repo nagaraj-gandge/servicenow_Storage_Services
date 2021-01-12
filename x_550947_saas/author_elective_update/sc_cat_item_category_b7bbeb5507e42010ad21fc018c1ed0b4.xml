@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create Primera Volume">33c3a5e007d46010ad21fc018c1ed07b</sc_cat_item>
+        <sc_category display_value="HPEPrimera">194b275507e42010ad21fc018c1ed04b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 14:14:34</sys_created_on>
+        <sys_id>b7bbeb5507e42010ad21fc018c1ed0b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPEPrimera.Create Primera Volume</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_update_name>sc_cat_item_category_b7bbeb5507e42010ad21fc018c1ed0b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 14:14:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SaaS">7982016c07546010ad21fc018c1ed028</application>
+        <file_path/>
+        <instance_id>a2ca6f24db95081052dd2f17d49619cb</instance_id>
+        <instance_name>dev95048</instance_name>
+        <name>sc_cat_item_category_b7bbeb5507e42010ad21fc018c1ed0b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Primera Volume">33c3a5e007d46010ad21fc018c1ed07b</sc_cat_item><sc_category display_value="HPEPrimera">194b275507e42010ad21fc018c1ed04b</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 14:14:34</sys_created_on><sys_id>b7bbeb5507e42010ad21fc018c1ed0b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HPEPrimera.Create Primera Volume</sys_name><sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package><sys_policy/><sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope><sys_update_name>sc_cat_item_category_b7bbeb5507e42010ad21fc018c1ed0b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 14:14:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1563737333</payload_hash>
+        <record_name>HPEPrimera.Create Primera Volume</record_name>
+        <reverted_from/>
+        <source>f982016c07546010ad21fc018c1ed02a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 14:14:34</sys_created_on>
+        <sys_id>ffbbeb5507e42010ad21fc018c1ed0b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d68ea6770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 14:14:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>3bbbeb55f6e42010254d565a1ca033b6</update_guid>
+        <update_guid_history>3bbbeb55f6e42010254d565a1ca033b6:1563737333</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HPEPrimera.Create Primera Volume">8920b35907e42010ad21fc018c1ed04b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 14:33:46</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0338ea14c387498a82e5001ddf0e3f91</sys_id>
+        <sys_metadata>b7bbeb5507e42010ad21fc018c1ed0b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPEPrimera.Create Primera Volume</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_parent display_value="HPE Primera Volume Create ">33c3a5e007d46010ad21fc018c1ed07b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_scope_delete display_value="">7ec3e9f0956b4ad0969ee05147fdaa40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b7bbeb5507e42010ad21fc018c1ed0b4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b7bbeb5507e42010ad21fc018c1ed0b4">ffbbeb5507e42010ad21fc018c1ed0b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 14:33:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

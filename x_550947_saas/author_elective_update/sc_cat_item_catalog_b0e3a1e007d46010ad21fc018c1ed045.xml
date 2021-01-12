@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Create Primera Volume">33c3a5e007d46010ad21fc018c1ed07b</sc_cat_item>
+        <sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 10:09:50</sys_created_on>
+        <sys_id>b0e3a1e007d46010ad21fc018c1ed045</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPE Storage Catalogs.Create Primera Volume</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b0e3a1e007d46010ad21fc018c1ed045</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 10:09:50</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SaaS">7982016c07546010ad21fc018c1ed028</application>
+        <file_path/>
+        <instance_id>a2ca6f24db95081052dd2f17d49619cb</instance_id>
+        <instance_name>dev95048</instance_name>
+        <name>sc_cat_item_catalog_b0e3a1e007d46010ad21fc018c1ed045</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Primera Volume">33c3a5e007d46010ad21fc018c1ed07b</sc_cat_item><sc_catalog display_value="HPE Storage Catalogs">bfa3e1e007d46010ad21fc018c1ed05f</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-02 10:09:50</sys_created_on><sys_id>b0e3a1e007d46010ad21fc018c1ed045</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HPE Storage Catalogs.Create Primera Volume</sys_name><sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package><sys_policy/><sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope><sys_update_name>sc_cat_item_catalog_b0e3a1e007d46010ad21fc018c1ed045</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-02 10:09:50</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1719155037</payload_hash>
+        <record_name>HPE Storage Catalogs.Create Primera Volume</record_name>
+        <reverted_from/>
+        <source>f982016c07546010ad21fc018c1ed02a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 10:09:50</sys_created_on>
+        <sys_id>f0e3e5e007d46010ad21fc018c1ed06e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175886f34a20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 10:09:50</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>3ce3e5e0aad460100bc45a6f41b71d6d</update_guid>
+        <update_guid_history>3ce3e5e0aad460100bc45a6f41b71d6d:1719155037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HPE Storage Catalogs.Create Primera Volume">4d20b35907e42010ad21fc018c1ed042</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 14:33:45</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>04d0e7b6c40c40268033917de8ff8ae4</sys_id>
+        <sys_metadata>b0e3a1e007d46010ad21fc018c1ed045</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HPE Storage Catalogs.Create Primera Volume</sys_name>
+        <sys_package display_value="SaaS" source="x_550947_saas">7982016c07546010ad21fc018c1ed028</sys_package>
+        <sys_parent display_value="HPE Primera Volume Create ">33c3a5e007d46010ad21fc018c1ed07b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SaaS">7982016c07546010ad21fc018c1ed028</sys_scope>
+        <sys_scope_delete display_value="">7ec3e9f0956b4ad0969ee05147fdaa40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_b0e3a1e007d46010ad21fc018c1ed045</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_b0e3a1e007d46010ad21fc018c1ed045">f0e3e5e007d46010ad21fc018c1ed06e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 14:33:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
